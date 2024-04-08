@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django REST APIs**
 
-- 👨‍💻 All of my projects are available at [https://personal-site-topaz-nine.vercel.app/](https://personal-site-topaz-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-lac-five.vercel.app/#contact](https://react-portfolio-lac-five.vercel.app/#contact)
 
 - 💬 Ask me about **Frontend technologies**
 

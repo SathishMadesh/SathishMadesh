@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathish M</h1>
 <h3 align="center">A passionate Frontend Developer | Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Django REST APIs**
+- 🌱 I’m pursuing **Mtech in Data Science**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-lac-five.vercel.app/#contact](https://react-portfolio-lac-five.vercel.app/#contact)
 

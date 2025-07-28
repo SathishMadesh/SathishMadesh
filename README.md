@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-lac-five.vercel.app/#contact](https://react-portfolio-lac-five.vercel.app/#contact)
 
-- 💬 Ask me about **Frontend technologies**
+- 💬 Ask me about **Frontend technologies, Python, SQL**
 
 - 📫 How to reach me **sathishmadesh0304@gmail.com**
 

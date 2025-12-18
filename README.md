@@ -3,9 +3,7 @@
 
 - 🌱 I’m pursuing **Mtech in Data Science**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-lac-five.vercel.app/#contact](https://react-portfolio-lac-five.vercel.app/#contact)
-
-- 💬 Ask me about **Frontend technologies, Python, SQL**
+- 💬 Ask me about **Python, SQL, ML**
 
 - 📫 How to reach me **sathishmadesh0304@gmail.com**
 

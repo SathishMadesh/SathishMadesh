@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathish M</h1>
-<h3 align="center">Data Science and ML Engineer</h3>
+<h3 align="center">Data Science and AI/ML Engineer</h3>
 
 - 🌱 I’m pursuing **Mtech in Data Science**
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m pursuing **Mtech in Data Science**
 
-- 💬 Ask me about **Python, SQL, ML, Gen AI**
+- 💬 Ask me about **Python, SQL, ML, Deep Learning, NLP, Gen AI**
 
 - 📫 How to reach me **sathishmadesh0304@gmail.com**
 
